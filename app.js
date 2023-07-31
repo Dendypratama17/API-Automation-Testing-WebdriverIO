@@ -1,0 +1,10 @@
+const API_CONFIG = {
+    BASE_URL_1: 'https://app.aquarius.axeleration.id/api/web',
+    BASE_URL_2: 'https://app.aquarius.axeleration.id/api/',
+    ENDPOINT_1: '/list-jobs?page=1&per_page=50',
+    ENDPOINT_2: '/detail-jobs/a9938c63-c8a2-40a4-ae57-ed0f565be6e5',
+    ENDPOINT_3: '/applicant/detail/877239c0-2876-11ee-be56-0242ac120002',
+    TOKEN: 'eyJhbGciOiJSUzUxMiIsImtpZCI6InM5Y0IwZkZXQTZKUVZ1c1dTOVhaR2tmYWxOQThBMUtUUlI5Qjg1dk1NV0UifQ.eyJpc3MiOiJQcml2eUlEIFByb3ZpZGVyIiwic3ViIjoiUHJpdnlJRCBQcm92aWRlciIsImlhdCI6MTY5MDYyOTY3MSwiZXhwIjoxNjkwNjM2ODcxLCJqdGkiOiI2YjM3OTNmYi1iZWY5LTQ1MTktYjUxNC03ZDM0Mzc4MDcwOGQiLCJ1aWQiOiJVQVQwMTMiLCJ1c2VyIjp7InByaXZ5SWQiOiJVQVQwMTMiLCJ1dWlkIjoiN2U2MDFkMDgtNzcyOS00ZjU0LTkyM2QtZmMyZDE1NzRiMmZiIn0sImNsYWltcyI6WyJ3cml0ZSIsInJlYWQiLCJwdWJsaWMiXX0.D3ZU_8M3mx4ogt7aBvMVKoDqJRrJKD_1m3cAHfI8MKbUrybjY4aE6GxFsapfkhRttBPIM8d2z_dQ1M2cHlP8n3S8w_O4QdOaUY78bdrEbGucK9wXisb9JPqkxoI0DYKXqzNBHDJ32ovp_RUHY384RB7JhO03Dx5uHJZrU9AeGd9oYtPCO2J0VYsPy6lQhTWEE4M0cSEsuKr61Nj7wwKM4GMELvIz6PihBlckOWvN2_Zlstnh7muUstPghk46ndz-0xAs2SJfAUqY-6iFggN77-j3cU2TQPsAJlKBMsLaqoAGq6X9PmtKROiHAKQaH98aTvpin-vEhCWD6ucy20w67A',
+  };
+  
+  module.exports = API_CONFIG;
