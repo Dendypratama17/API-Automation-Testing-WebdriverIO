@@ -20,9 +20,13 @@ Check Node Version
 
     node -v
 
-Install Node Modules
+Install Package
 
-    npm install
+    npm init
+
+Install Node Modules & Package Lock
+
+    npm install --save-dev jest
 
 Running Code in Visual Studio Code
 
