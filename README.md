@@ -32,4 +32,4 @@ Running Code in Visual Studio Code
 
     npm run jest foldername/filename.js
 
-### Thanks You ^_^
+### Thanks You -_-
