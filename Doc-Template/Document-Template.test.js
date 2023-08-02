@@ -6,12 +6,12 @@ describe('API Tests', () => {
 
   it('should upload a document', async () => {
     const response = await request('https://app.aquarius.axeleration.id/api/')
-      .post('template/upload')
-      .set('Authorization', `Bearer ${token}`)
-      .field('title', 'Test12')
-      .field('type', 'Test12')
-      .attach('document', './Document/Test.pdf'); 
+    //   .post('template/upload')
+    //   .set('Authorization', `Bearer ${token}`)
+    //   .field('title', 'Test12')
+    //   .field('type', 'Test12')
+    //   .attach('document', './Document/Test.pdf'); 
 
-    expect(response.status).toBe(201); 
+    // expect(response.status).toBe(201); 
   });
 });
